@@ -35,14 +35,6 @@ My philosophy: **"If I can still find a bug in it, it doesn't work. If I can't f
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mericeraykurt&theme=radical&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" height="165" />
-</p>
-
----
-
 <p align="center">
   <sub>⚡ "The best code is the code that solves your own problem." — me, probably</sub>
 </p>
