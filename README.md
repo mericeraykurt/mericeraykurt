@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=I'm+building+what+doesn't+exist.;I'm+breaking+what+shouldn't+work.;And+don't+forget...;There's+always+one+more+bug.;XXLRN+was+here." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=XXLRN+was+here.;I'm+building+what+doesn't+exist.;I'm+breaking+what+shouldn't+break.;And+don't+forget...;There's+always+one+more+bug." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -25,11 +25,7 @@
 
 ---
 
-### 🧠 About Me
-
-```
-> whoami
-```
+### 🧠 `> whoami`
 
 I've been interested in software since I was a kid — not because someone told me to, but because I kept finding things that didn't exist and got tired of waiting for someone else to make them. Same story with music — I couldn't find the sounds I craved, so I started producing my own.
 
@@ -38,6 +34,8 @@ I'm a Windows developer, music producer, and a glitch/bug/exploit hunter at hear
 I focus on low-level systems programming — direct hardware access, kernel-mode APIs, real-time audio, and network protocols. No frameworks, no abstractions, just raw performance.
 
 My philosophy: **"If I can still find a bug in it, it doesn't work. If I can't find a bug in it, I'm not looking hard enough."**
+
+> 🔒 Currently working on something I've been dreaming about since I was a kid. Stay tuned.
 
 ---
 
