@@ -6,13 +6,6 @@
   <sub>I build tools that solve problems I've personally suffered through — and the things I wish already existed.</sub>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-17-f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++17">
-  <img src="https://img.shields.io/badge/Windows-API-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows API">
-  <img src="https://img.shields.io/badge/WASAPI-Audio-00C853?style=for-the-badge" alt="WASAPI">
-  <img src="https://img.shields.io/badge/UDP-Networking-FF6D00?style=for-the-badge" alt="UDP">
-</p>
-
 ---
 
 ### 🎵 Featured Project
